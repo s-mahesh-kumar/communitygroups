@@ -20,7 +20,8 @@ Resource to uilize cloud native community groups
 |  5 	      |  [Communication](#communication)  	                                                                              |
 |  6        | [Useful Links](#useful-links)                                                                                      |
 |  10       |  [FAQ](#faq)                                                                                                      |
-|  11       |  [Code of Conduct](#code-of-conduct)                                                                              |
+|  11        | [FeedBack](#Feed-Back)
+|  12       |  [Code of Conduct](#code-of-conduct)                                                                              |
 
 
 
@@ -96,7 +97,7 @@ It's best if you use a public communication channel whenever possible; however, 
 
 |  Number 	| Links  	| Description  	|
 |---	|---	|---	|
-|  1 	| [best practices](./best_practices.md).  	|   Check out some Best Practices us here	|
+|  1 	| [best practices](./best_practices.md).  	|   Check out some Best Practices of us here	|
 |  2 	|  [Bevy platform support](https://help.bevylabs.com/) 	|  If you have any technical difficulties with the platform itself, please reach out to this link  	|
 |  3 	|   [YouTube Training Videos](https://www.youtube.com/watch?v=_rBdomoYlmc)	|  CNCF and Bevy have organized the training session for the Community Groups organizers. It has been recorded and now available on YouTube|
 |  4 	|  	[TroubleShooting](https://help.bevylabs.com/article/499-troubleshooting) 	|  The troubleshooting guide by Bevy is available here |
@@ -207,6 +208,10 @@ Also, please make sure that you are aware of other community-focused CNCF progra
 Here is [a map of the CNCF Ambassadors](https://drive.google.com/open?id=1fb0UPi8ijeexueBxcpGuvVlZ_8hJHXVQ&usp=sharing).
 
 > --
+
+## FEED BACK :
+
+Please give your valuable suggestions [here](https://docs.google.com/forms/d/e/1FAIpQLSdGOXht4RWMigbsUL7mbUMmdJWd_ZR-aNzrUvUAuqvXG8iRmw/viewform?usp=pp_url)
 ## Code of Conduct
 
 Cloud Native Community Groups follow the ["CNCF Code of Conduct'](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
